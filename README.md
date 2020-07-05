@@ -23,7 +23,7 @@ conda activate myenv
 
 
 
-This project requires **Python 3.6** and the following Python libraries installed:
+This use case requires **Python 3.6** and the following Python libraries installed:
 
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
@@ -49,5 +49,5 @@ In a terminal or command window, navigate to the directory `advanced/Incorporati
 jupyter notebook Incorporating_Related_Time_Series_dataset_to_your_Predictor.ipynb
 ```
 
-This will open the iPython Notebook software and project file in your browser.
+This will open the iPython Notebook software and use case file in your browser.
 
