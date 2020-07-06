@@ -1,7 +1,7 @@
 # Amazon Forecast with Snowflake
 
 - End to end example of Amazon Forecast using Snowflake.
-- Note that it follows [amazon-forecast-samples](https://github.com/aws-samples/amazon-forecast-samples/tree/master/notebooks/advanced/Incorporating_Related_Time_Series_dataset_to_your_Predictor)
+- Note this example follows [amazon-forecast-samples](https://github.com/aws-samples/amazon-forecast-samples/tree/master/notebooks/advanced/Incorporating_Related_Time_Series_dataset_to_your_Predictor)
   - Uses simulated Snowflake as initial data store to for the source data
   - After data transformation as needed by Amazon Forecast, data is updated back to Snowflake data store
   - Unload data from Snowflake to S3 and import dataset to Amazon Forecast, build predictor and forecast
